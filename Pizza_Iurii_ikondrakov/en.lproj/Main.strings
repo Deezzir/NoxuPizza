@@ -1,0 +1,90 @@
+
+/* Class = "UIButton"; configuration.title = "Reset"; ObjectID = "3tb-Ze-veH"; */
+"3tb-Ze-veH.configuration.title" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3tb-Ze-veH"; */
+"3tb-Ze-veH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "6Xg-IC-WMY"; */
+"6Xg-IC-WMY.text" = "Quantity";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "ByZ-Xc-1rW"; */
+"ByZ-Xc-1rW.text" = "Quantity";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "FAP-Xb-Coe"; */
+"FAP-Xb-Coe.text" = "$";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "Kr2-JS-bw9"; */
+"Kr2-JS-bw9.text" = "Size";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Lf2-zM-uct"; */
+"Lf2-zM-uct.text" = "1";
+
+/* Class = "UISegmentedControl"; MNi-6g-aOh.segmentTitles[0] = "Small"; ObjectID = "MNi-6g-aOh"; */
+"MNi-6g-aOh.segmentTitles[0]" = "Small";
+
+/* Class = "UISegmentedControl"; MNi-6g-aOh.segmentTitles[1] = "Medium"; ObjectID = "MNi-6g-aOh"; */
+"MNi-6g-aOh.segmentTitles[1]" = "Medium";
+
+/* Class = "UISegmentedControl"; MNi-6g-aOh.segmentTitles[2] = "Large"; ObjectID = "MNi-6g-aOh"; */
+"MNi-6g-aOh.segmentTitles[2]" = "Large";
+
+/* Class = "UILabel"; text = "Small"; ObjectID = "R4m-gL-0qg"; */
+"R4m-gL-0qg.text" = "Small";
+
+/* Class = "UILabel"; text = "n/a"; ObjectID = "RAD-bY-r0v"; */
+"RAD-bY-r0v.text" = "n/a";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "UEx-0U-rQp"; */
+"UEx-0U-rQp.text" = "$";
+
+/* Class = "UIViewController"; title = "Receipt"; ObjectID = "UXQ-LZ-EVE"; */
+"UXQ-LZ-EVE.title" = "Receipt";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "WZj-Ej-P0R"; */
+"WZj-Ej-P0R.text" = "Name";
+
+/* Class = "UILabel"; text = "the best pizza in the world"; ObjectID = "Xgm-LB-teH"; */
+"Xgm-LB-teH.text" = "the best pizza in the world";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "YbE-qO-HAF"; */
+"YbE-qO-HAF.text" = "$";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "bej-Wj-s9s"; */
+"bej-Wj-s9s.text" = "0";
+
+/* Class = "UIButton"; configuration.title = "Place Order"; ObjectID = "eMC-Lo-XOV"; */
+"eMC-Lo-XOV.configuration.title" = "Place Order";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eMC-Lo-XOV"; */
+"eMC-Lo-XOV.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "enF-Nb-hUN"; */
+"enF-Nb-hUN.text" = "Total";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "fKy-vy-pXB"; */
+"fKy-vy-pXB.text" = "Size";
+
+/* Class = "UILabel"; text = "noxuPizza"; ObjectID = "jvu-Nc-tfy"; */
+"jvu-Nc-tfy.text" = "noxuPizza";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "k6e-VQ-op2"; */
+"k6e-VQ-op2.text" = "Type";
+
+/* Class = "UILabel"; text = "Subtotal"; ObjectID = "mmp-Sw-czR"; */
+"mmp-Sw-czR.text" = "Subtotal";
+
+/* Class = "UILabel"; text = "noxuPizza"; ObjectID = "prH-gD-hv5"; */
+"prH-gD-hv5.text" = "noxuPizza";
+
+/* Class = "UIButton"; configuration.title = "Back"; ObjectID = "qdv-eW-erx"; */
+"qdv-eW-erx.configuration.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qdv-eW-erx"; */
+"qdv-eW-erx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Taxes"; ObjectID = "vde-dW-ePS"; */
+"vde-dW-ePS.text" = "Taxes";
+
+/* Class = "UILabel"; text = "the best pizza in the world"; ObjectID = "zOV-QM-KZU"; */
+"zOV-QM-KZU.text" = "the best pizza in the world";
